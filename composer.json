@@ -22,7 +22,7 @@
         "laravel/ui": ">=1.0",
         "arrilot/laravel-widgets": "^3.7",
         "league/flysystem": "~1.1|~2.0",
-        "mrpk-dev/voyager-hooks": "1.2.4",
+        "mrpk-dev/voyager-hooks": "v1.2.4",
         "ext-json": "*"
     },
     "require-dev": {
